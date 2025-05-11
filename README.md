@@ -72,9 +72,4 @@ Access the application on your browser at `http://localhost:8501`
 - Incorporate LLM (e.g., GPT) for smarter sentiment classification  
 - Add multilingual tweet handling  
 - Deploy as a REST API for third-party integration  
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
